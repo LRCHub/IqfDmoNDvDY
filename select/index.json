@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "To see the future",
+  "base_artist": "Llenn (CV:Tomori Kusunoki)",
+  "createdAt": "2025-12-01T07:50:20.382369Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "To see the future",
+      "artist": "楠木ともり",
+      "has_synced": true,
+      "path": "select/01_To_see_the_future_楠木ともり.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pretending To See The Future",
+      "artist": "OMD",
+      "has_synced": false,
+      "path": "select/02_Pretending_To_See_The_Future_OMD.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "To see the future",
+      "artist": "Ryoko Inagaki",
+      "has_synced": true,
+      "path": "select/03_To_see_the_future_Ryoko_Inagaki.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "To see the future",
+      "artist": "楠木ともり",
+      "has_synced": true,
+      "path": "select/04_To_see_the_future_楠木ともり.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "To see the future",
+      "artist": "レン",
+      "has_synced": true,
+      "path": "select/05_To_see_the_future_レン.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "To see the future",
+      "artist": "レン(楠木ともり)",
+      "has_synced": true,
+      "path": "select/06_To_see_the_future_レン(楠木ともり).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "To see the future",
+      "artist": "レン(楠木ともり)",
+      "has_synced": true,
+      "path": "select/07_To_see_the_future_レン(楠木ともり).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "To see the future",
+      "artist": "レン（楠木ともり）",
+      "has_synced": true,
+      "path": "select/08_To_see_the_future_レン(楠木ともり).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Pretending To See The Future",
+      "artist": "Orchestral Manoeuvres In The Dark",
+      "has_synced": true,
+      "path": "select/09_Pretending_To_See_The_Future_Orchestral_Manoeuvres_In_The_Dark.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "To see the future",
+      "artist": "レン starring 楠木ともり",
+      "has_synced": true,
+      "path": "select/10_To_see_the_future_レン_starring_楠木ともり.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "To see the future",
+      "artist": "レン (CV:楠木ともり)",
+      "has_synced": true,
+      "path": "select/11_To_see_the_future_レン_(CV_楠木ともり).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Pretending To See The Future",
+      "artist": "OMD",
+      "has_synced": true,
+      "path": "select/12_Pretending_To_See_The_Future_OMD.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "To see the future (TV size)",
+      "artist": "レン",
+      "has_synced": true,
+      "path": "select/13_To_see_the_future_(TV_size)_レン.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "To see the future (TV size)",
+      "artist": "レン(楠木ともり)",
+      "has_synced": true,
+      "path": "select/14_To_see_the_future_(TV_size)_レン(楠木ともり).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "To see the future",
+      "artist": "レン(楠木ともり)",
+      "has_synced": false,
+      "path": "select/pl_01_To_see_the_future_レン(楠木ともり).txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "To see the future (TV size)",
+      "artist": "レン(楠木ともり)",
+      "has_synced": false,
+      "path": "select/pl_02_To_see_the_future_(TV_size)_レン(楠木ともり).txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "To see the future",
+      "artist": "レン(楠木ともり)",
+      "has_synced": false,
+      "path": "select/pl_03_To_see_the_future_レン(楠木ともり).txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "To see the future",
+      "artist": "レン(楠木ともり)",
+      "has_synced": false,
+      "path": "select/pl_04_To_see_the_future_レン(楠木ともり).txt"
+    }
+  ]
+}
